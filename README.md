@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Arthur
+- 👋 Hi, I’m @UnLoupBlanc
 - 👀 I’m interested in JavaScript and Java
-- 🌱 I’m currently learning JavaScript and C
-- 💞️ I’m actualy working on discord bot named SicensBot.
+- 🌱 I’m currently learning JavaScript, C, 8086, HTML, CSS and Php.
 - 📫 How to reach me with Discord (Ara_#3945)
 
 <!---
